@@ -1,0 +1,19 @@
+# Local .terraform directories
+.terraform/
+
+# State files
+terraform.tfstate
+terraform.tfstate.*
+crash.log
+crash.*.log
+
+# Variable files
+*.tfvars
+*.tfvars.json
+
+# Sensitive files (keys, certs)
+*.pem
+*.key
+
+# MacOS junk
+.DS_Store
