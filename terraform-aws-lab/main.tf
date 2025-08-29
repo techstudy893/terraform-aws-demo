@@ -20,8 +20,3 @@ module "web" {
   allowed_http_cidrs = ["0.0.0.0/0"]
   allowed_ssh_cidrs  = ["152.37.69.4/32"]
 }
-
-
-
-
-
